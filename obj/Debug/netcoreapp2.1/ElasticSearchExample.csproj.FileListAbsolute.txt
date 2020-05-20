@@ -1,0 +1,14 @@
+C:\Users\gcifguvercin\ElasticSearchExample\bin\Debug\netcoreapp2.1\ElasticSearchExample.deps.json
+C:\Users\gcifguvercin\ElasticSearchExample\bin\Debug\netcoreapp2.1\ElasticSearchExample.runtimeconfig.json
+C:\Users\gcifguvercin\ElasticSearchExample\bin\Debug\netcoreapp2.1\ElasticSearchExample.runtimeconfig.dev.json
+C:\Users\gcifguvercin\ElasticSearchExample\bin\Debug\netcoreapp2.1\ElasticSearchExample.dll
+C:\Users\gcifguvercin\ElasticSearchExample\bin\Debug\netcoreapp2.1\ElasticSearchExample.pdb
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.csprojAssemblyReference.cache
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.csproj.CoreCompileInputs.cache
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.RazorAssemblyInfo.cache
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.RazorAssemblyInfo.cs
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.AssemblyInfoInputs.cache
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.AssemblyInfo.cs
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.RazorTargetAssemblyInfo.cache
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.dll
+C:\Users\gcifguvercin\ElasticSearchExample\obj\Debug\netcoreapp2.1\ElasticSearchExample.pdb
